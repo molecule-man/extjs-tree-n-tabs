@@ -1,5 +1,8 @@
 Ext.define('Ext.ux.extjs-tree-n-tabs.Panel' ,{
     extend: 'Ext.panel.Panel',
+
+    alternateClassName: ['BAS.ux.extjs-tree-n-tabs.Panel'],
+
     alias: 'widget.treentabs',
 
     foldersContentWrapper: 'tabpanel',
