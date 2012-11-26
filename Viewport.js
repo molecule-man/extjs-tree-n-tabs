@@ -1,9 +1,9 @@
-Ext.define('Ext.ux.extjs-tree-n-tabs.Panel' ,{
+Ext.define('Ext.ux.extjs-tree-n-tabs.Viewport' ,{
     extend: 'Ext.container.Viewport',
 
-    alternateClassName: ['BAS.ux.extjs-tree-n-tabs.Panel'],
+    alternateClassName: ['BAS.ux.extjs-tree-n-tabs.Viewport'],
 
-    alias: 'widget.treentabs',
+    alias: 'widget.treentabsviewport',
 
     foldersContentWrapper: 'tabpanel',
     leafsContentWrapper: 'tabpanel',
